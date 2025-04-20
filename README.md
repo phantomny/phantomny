@@ -12,7 +12,7 @@
 
 ###
 
-<h7 align="left">Hey, my name is Dashawn. I’m an emerging cybersecurity professional based in New York City. with a focus on both offensive and defensive security. My work centers on ethical hacking, open-source intelligence gathering, and SOC-related skills such as monitoring alerts, analyzing logs, and identifying threats in real-time.</h5>
+<h7 align="left">Hey, my name is Dashawn. I’m an emerging cybersecurity professional based in New York City. with a focus on both offensive and defensive security. My work centers on ethical hacking, open-source intelligence gathering, and SOC-related skills such as monitoring alerts, analyzing logs, and identifying threats in real-time.</h7>
 
 ###
 
