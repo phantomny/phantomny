@@ -16,7 +16,7 @@
 
 ###
 
-<h5 align="left">📚   Currently studying Cybersecuirty <br>💡   Developing Python projects on Kali Linux<br>👁️   Gaining hands-on skills in ethical hacking to assess vulnerabilities through offensive testing<br>🔍   Exploring OSINT since 2016<br>🌐   Passionate about cybersecurity and continuous learning<br>📸   On the non-technical side, I’m into photography and graphic design</h5>
+<h5 align="left">📚   Currently studying Cybersecuirty <br>💡   Developing Python projects on Kali Linux<br>👁️   Gaining hands-on skills in ethical hacking to assess vulnerabilities through offensive testing<br>🌐   Passionate about cybersecurity and continuous learning<br>📸   On the non-technical side, I’m into photography and graphic design</h5>
 
 ###
 
